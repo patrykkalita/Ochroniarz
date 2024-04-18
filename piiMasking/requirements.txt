@@ -1,0 +1,4 @@
+pandas
+streamlit
+presidio-analyzer
+presidio-anonymizer
